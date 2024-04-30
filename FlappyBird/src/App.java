@@ -1,3 +1,7 @@
+// Saya Nama Roshan Syalwan Nurilham [2203142] mengerjakan soal LP7 dalam mata kuliah DPBO 
+// untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
